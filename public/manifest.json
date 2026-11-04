@@ -1,0 +1,17 @@
+{
+  "name": "QR Dine - Multi-Restaurant Ordering SaaS",
+  "short_name": "QRDine",
+  "description": "Mobile-first QR ordering web app for dine-in restaurants.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f5",
+  "theme_color": "#ea580c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
